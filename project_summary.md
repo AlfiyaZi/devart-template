@@ -1,5 +1,5 @@
 # Project Title
-Insert the name of your project
+Korsakov
 
 ## Authors
 - Insert main author name, surname, github account
