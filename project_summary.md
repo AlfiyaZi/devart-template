@@ -1,5 +1,4 @@
 # Korsakov
-Korsakov
 
 ## Authors
 - Insert main author name, surname, github account
