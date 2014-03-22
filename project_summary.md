@@ -1,6 +1,6 @@
 # Korsakov
 
-## Authors
+## Author
 - Ziganshina Alfiya https://github.com/AlfiyaZi
 
 
