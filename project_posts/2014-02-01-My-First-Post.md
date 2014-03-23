@@ -1,9 +1,8 @@
 #Project Plan
 
 Step1 | Step2|
------------- | -------------
-Research | search and selection of technologies
-Idea generation | for idea realization
+--------- | -----------
+Research | technologies selectionfor idea realization
 
 ![Example Image](../project_images/cover.jpg?raw=true "Example Image")
 
