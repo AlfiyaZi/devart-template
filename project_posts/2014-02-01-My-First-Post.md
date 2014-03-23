@@ -1,4 +1,4 @@
-#Project Plan#
+#Project Plan
 
 Step1 | Step2|
 ------------ | -------------
