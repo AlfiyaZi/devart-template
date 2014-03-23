@@ -1,8 +1,8 @@
-#Project Plan
+##Project plan
 
-Step1 | Step2|
---------- | -----------
-Research | technologies selectionfor idea realization
+Step1 | Step2| Step3| Step4| Step5|
+------- | -------| -------|-------|------|
+Research | Technologies selection|
 
 ![Example Image](../project_images/cover.jpg?raw=true "Example Image")
 
