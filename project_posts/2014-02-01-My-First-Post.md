@@ -1,4 +1,9 @@
-Step 1Insert a description to describe your update to document your creative process. The Commissioned Interactive Artists will be doing the same so you can reference their Project Posts.
+#Project Plan#
+
+Step1 | Step2|
+------------ | -------------
+Research | search and selection of technologies
+Idea generation | for idea realization
 
 ![Example Image](../project_images/cover.jpg?raw=true "Example Image")
 
